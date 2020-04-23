@@ -1,0 +1,1 @@
+Welcome! This website features a capstone project for Colorado State's human computer interaction class. This specific project dives into the problems users may face while interacting with a menu in a game. The team of four set out to find a menu placement that not only is easily accessible but easy to use. 
