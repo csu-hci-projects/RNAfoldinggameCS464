@@ -1,0 +1,10 @@
+{
+  "name":"CS 001 Web Page Demonstration",
+  "department":"pages/department.json",
+  "pages": [
+    {"type":"page", "title":"HCI Menu Project", "menu":"Home", "file":"pages/home.md"},
+    {"type":"text", "title":"About Us", "menu":"About Us", "file":"pages/site.json"},
+    {"type":"text", "title":"Project", "menu":"Project", "file":"pages/course.md"},
+    {"type":"link", "title":"Computer Science", "menu":"CS", "url":"http://www.cs.colostate.edu/"}
+  ]
+}
