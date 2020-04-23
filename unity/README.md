@@ -1,3 +1,3 @@
 # Unity
 
-Unity project will be found within this folder. More info to come.
+Unity project will be found within this folder. The .zip file is the same as what is on the GitHub.
