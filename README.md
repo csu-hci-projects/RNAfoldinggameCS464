@@ -17,9 +17,14 @@ The main objective of the project aims to successfully integrate an RNA folding 
 
 ### Checkpoint(s):
 
-3/5/2020
+Check point 2: 3/5/2020
 
-* [Overview Video](https://drive.google.com/file/d/1FZOSJJlZ-FsS2GUGHl2F0t5GjgwofBfR/view) - hypothesis, variables, prototype, and literature reviews
+* [Overview Video](https://youtu.be/v9viYS5hhmQ) - hypothesis, variables, prototype, and literature reviews
 
 * [Latex file](https://www.overleaf.com/read/hkwmrvtcycyd) - beginnings of latex file, further updates to come as development continues 
 
+Checkpoint 3: 4/10/2020
+video: https://youtu.be/V_lvq9CnDTs
+
+Checkpoint 4: 4/28/2020
+video:
