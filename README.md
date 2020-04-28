@@ -24,7 +24,9 @@ Check point 2: 3/5/2020
 * [Latex file](https://www.overleaf.com/read/hkwmrvtcycyd) - beginnings of latex file, further updates to come as development continues 
 
 Checkpoint 3: 4/10/2020
-video: https://youtu.be/V_lvq9CnDTs
+
+*video: https://youtu.be/V_lvq9CnDTs
 
 Checkpoint 4: 4/28/2020
-video:
+
+*video:
