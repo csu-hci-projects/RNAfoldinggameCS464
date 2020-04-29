@@ -25,8 +25,8 @@ Check point 2: 3/5/2020
 
 Checkpoint 3: 4/10/2020
 
-*video: https://youtu.be/V_lvq9CnDTs
+*[video] (https://youtu.be/V_lvq9CnDTs)
 
 Checkpoint 4: 4/28/2020
 
-*video:
+*[video](https://youtu.be/v9viYS5hhmQ)
