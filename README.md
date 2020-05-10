@@ -18,6 +18,9 @@ The main objective of the project aims to successfully integrate an RNA folding 
 ### Latex File
 * [Latex file link](https://www.overleaf.com/project/5e600d959e20c80001ec9e3b ) - Finished product of our latex file, includes experiment details as well as 16 literature reviews 
 
+#### Description
+* Gonzalez, Kaszynski, Young and Stodghill originally set outto conduct a research experiment and report on RNA manipu-lation within a three-dimensional virtual setting. This was tobe done for the efficiency manipulation in three-dimensionsprovided, as well as the novelty of creating an RNA structuresimulator in a three-dimensional virtual setting. However, dueto arguably unforeseen events, COVID-19 prevented the ma-jority of the research process required, and the research teamwas forced to adapt to a different goal. The new goal for theresearch team was determined to be a similar, but much sim-pler experiment involving an open-source Unity game, virtualmenu layouts, and conducted virtually using online resources.Alongside this, the paper includes a plethora of literature re-views to enhance their understanding of virtual menu systemsand user interface navigation.  This paper will cover thesereviews as well as review the process and end result of theconducted menu experiment.
+
 ### Checkpoint(s):
 
 Check point 2: 3/5/2020
