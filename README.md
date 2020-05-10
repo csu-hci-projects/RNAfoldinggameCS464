@@ -15,6 +15,9 @@ The main objective of the project aims to successfully integrate an RNA folding 
 
 ## Progress 
 
+### Latex File
+* [Latex file link](https://www.overleaf.com/project/5e600d959e20c80001ec9e3b ) - Finished product of our latex file, includes experiment details as well as 16 literature reviews 
+
 ### Checkpoint(s):
 
 Check point 2: 3/5/2020
