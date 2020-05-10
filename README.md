@@ -14,7 +14,7 @@ The main objective of the project aims to successfully integrate an RNA folding 
 * Fabienne Young - [(@fabienneyoung)](https://github.com/fabienneyoung)
 
 ## Progress 
-
+* [Github Link](https://github.com/csu-hci-projects/RNAfoldinggameCS464)
 ### Latex File
 * [Latex file link](https://www.overleaf.com/project/5e600d959e20c80001ec9e3b )
 
