@@ -25,14 +25,16 @@ Check point 2: 3/5/2020
 
 Checkpoint 3: 4/10/2020
 
-* [video](https://youtu.be/V_lvq9CnDTs)
+* [video](https://youtu.be/V_lvq9CnDTs) - This checkpoint involves our swap to the changed project, and the choosing of an open source unity game for the base of our project, as well as 4 literature reviews
 
 Checkpoint 4: 4/28/2020
 
-* [video](https://youtu.be/v9viYS5hhmQ)
+* [video](https://www.youtube.com/watch?v=gw1mjlUL5I8&t=1s)  - This checkpoint details our prototype continued from last time, as well as the experiment design for the upcoming experiment
 
 Checkpoint 5: 5/9/2020
 
-* [video](https://youtu.be/t6s_Pr7RiRs)
-* [Latex file link](https://www.overleaf.com/project/5e600d959e20c80001ec9e3b )
-* [Final Presentation](https://youtu.be/ZHWtBQyd8JE)
+* [video](https://youtu.be/t6s_Pr7RiRs) - This checkpoint included an upgrade in quality for our slides, and went over the experiment results and how it was carried out. Also included a lessons learned and future research section.
+
+* [Latex file link](https://www.overleaf.com/project/5e600d959e20c80001ec9e3b ) - Finished product of our latex file, includes experiment details as well as 16 literature reviews 
+
+* [Final Presentation](https://youtu.be/ZHWtBQyd8JE) - This final video covers our entire research process since the beginning of the semester, up to and including the final experiment we conducted.
