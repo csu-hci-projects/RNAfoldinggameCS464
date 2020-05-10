@@ -33,5 +33,6 @@ Checkpoint 4: 4/28/2020
 
 Checkpoint 5: 5/9/2020
 
-* [video]()
+* [video](https://youtu.be/t6s_Pr7RiRs)
 * [Latex file link](https://www.overleaf.com/project/5e600d959e20c80001ec9e3b )
+* [Final Presentation](https://youtu.be/ZHWtBQyd8JE)
