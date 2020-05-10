@@ -1,4 +1,4 @@
-# RNA Folding Virtual Reality Game
+# Menu Design on 2D Interfaces
 
 The following project aims to create a game that allows people to predict RNA folding. This is a semester long project for a the senior level undergraduate course CS646 on Human-computer interaction (HCI). 
 
